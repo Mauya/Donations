@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
-DBS_NAME = 'donorsUSA'
+DBS_NAME = 'donosUSA'
 COLLECTION_NAME = 'projects'
 
 
